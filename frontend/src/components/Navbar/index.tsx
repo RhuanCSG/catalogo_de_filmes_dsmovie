@@ -6,11 +6,11 @@ function Navbar() {
         <header>
             <nav className="container">
                 <div className="dsmovie-nav-content">
-                    <h1>/RhuanCSG</h1>
+                    <h1>DSMovie</h1>
                     <a href="https://github.com/RhuanCSG">
                         <div className="dsmovie-contact-container">
                             <GithubIcon />
-                            <p className="dsmovie-contact-link">DSMovie</p>
+                            <p className="dsmovie-contact-link">/RhuanCSG</p>
                         </div>
 
                     </a>
